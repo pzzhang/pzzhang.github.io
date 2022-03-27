@@ -17,4 +17,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a senior researcher at Microsoft Research, Redmond and an affiliate assistant professor in the department of Electrical Engineering, University of Washington. Before joining Microsoft, I obtained my PhD degree in Applied and Computational Mathematics from Caltech in 2017. My research interests are mainly in the areas of deep learning, computer vision, multimodal intelligence, and theoretical foundations for deep learning. 
+I'm a principal researcher at Microsoft Research, Redmond and an affiliate assistant professor in the department of Electrical Engineering, University of Washington. Before joining Microsoft, I obtained my PhD degree in Applied and Computational Mathematics from Caltech in 2017. My research interests are mainly in the areas of deep learning, computer vision, multimodal intelligence, and theoretical foundations for deep learning. 

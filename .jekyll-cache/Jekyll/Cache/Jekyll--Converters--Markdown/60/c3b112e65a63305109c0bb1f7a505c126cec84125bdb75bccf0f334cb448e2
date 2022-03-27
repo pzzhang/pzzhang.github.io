@@ -1,0 +1,1099 @@
+I"÷ƒ<!-- _pages/publications.md -->
+<div class="publications">
+  <h2 class="year">2022</h2>
+  <ol class="bibliography"></ol>
+
+  <h2 class="year">2021</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="zhang2021vinvl" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Vinvl: Revisiting visual representations in vision-language models</div>
+          <!-- Author -->
+          <div class="author">
+                  <em>Zhang, Pengchuan</em>,&nbsp;Li, Xiujun,&nbsp;Hu, Xiaowei,&nbsp;Yang, Jianwei,&nbsp;Zhang, Lei,&nbsp;Wang, Lijuan,&nbsp;Choi, Yejin,&nbsp;and Gao, Jianfeng
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition</em> 2021
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="guo2021out" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Out-of-distribution prediction with invariant risk minimization: The limitation and an effective fix</div>
+          <!-- Author -->
+          <div class="author">Guo, Ruocheng,&nbsp;
+                  <em>Zhang, Pengchuan</em>,&nbsp;Liu, Hao,&nbsp;and Kiciman, Emre
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>arXiv preprint arXiv:2101.07732</em> 2021
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="zhang2021multi" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Multi-scale vision longformer: A new vision transformer for high-resolution image encoding</div>
+          <!-- Author -->
+          <div class="author">
+                  <em>Zhang, Pengchuan</em>,&nbsp;Dai, Xiyang,&nbsp;Yang, Jianwei,&nbsp;Xiao, Bin,&nbsp;Yuan, Lu,&nbsp;Zhang, Lei,&nbsp;and Gao, Jianfeng
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>arXiv preprint arXiv:2103.15358</em> 2021
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="zhang2021multiscale" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Multiscale Invertible Generative Networks for High-Dimensional Bayesian Inference</div>
+          <!-- Author -->
+          <div class="author">Zhang, Shumao,&nbsp;
+                  <em>Zhang, Pengchuan</em>,&nbsp;and Hou, Thomas Y
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>arXiv preprint arXiv:2105.05489</em> 2021
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="leclerc20213db" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">3DB: A Framework for Debugging Computer Vision Models</div>
+          <!-- Author -->
+          <div class="author">Leclerc, Guillaume,&nbsp;Salman, Hadi,&nbsp;Ilyas, Andrew,&nbsp;Vemprala, Sai,&nbsp;Engstrom, Logan,&nbsp;Vineet, Vibhav,&nbsp;Xiao, Kai,&nbsp;
+                  <em>Zhang, Pengchuan</em>,&nbsp;Santurkar, Shibani,&nbsp;Yang, Greg,&nbsp;and others, 
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>arXiv preprint arXiv:2106.03805</em> 2021
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="li2021efficient" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Efficient Self-supervised Vision Transformers for Representation Learning</div>
+          <!-- Author -->
+          <div class="author">Li, Chunyuan,&nbsp;Yang, Jianwei,&nbsp;
+                  <em>Zhang, Pengchuan</em>,&nbsp;Gao, Mei,&nbsp;Xiao, Bin,&nbsp;Dai, Xiyang,&nbsp;Yuan, Lu,&nbsp;and Gao, Jianfeng
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>arXiv preprint arXiv:2106.09785</em> 2021
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="han2021image" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Image scene graph generation (sgg) benchmark</div>
+          <!-- Author -->
+          <div class="author">Han, Xiaotian,&nbsp;Yang, Jianwei,&nbsp;Hu, Houdong,&nbsp;Zhang, Lei,&nbsp;Gao, Jianfeng,&nbsp;and <em>Zhang, Pengchuan</em>
+                
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>arXiv preprint arXiv:2107.12604</em> 2021
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="dai2021dynamic" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Dynamic detr: End-to-end object detection with dynamic attention</div>
+          <!-- Author -->
+          <div class="author">Dai, Xiyang,&nbsp;Chen, Yinpeng,&nbsp;Yang, Jianwei,&nbsp;
+                  <em>Zhang, Pengchuan</em>,&nbsp;Yuan, Lu,&nbsp;and Zhang, Lei
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>In Proceedings of the IEEE/CVF International Conference on Computer Vision</em> 2021
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="yang2021focal" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Focal Attention for Long-Range Interactions in Vision Transformers</div>
+          <!-- Author -->
+          <div class="author">Yang, Jianwei,&nbsp;Li, Chunyuan,&nbsp;
+                  <em>Zhang, Pengchuan</em>,&nbsp;Dai, Xiyang,&nbsp;Xiao, Bin,&nbsp;Yuan, Lu,&nbsp;and Gao, Jianfeng
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Advances in Neural Information Processing Systems</em> 2021
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="yuan2021florence" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Florence: A New Foundation Model for Computer Vision</div>
+          <!-- Author -->
+          <div class="author">Yuan, Lu,&nbsp;Chen, Dongdong,&nbsp;Chen, Yi-Ling,&nbsp;Codella, Noel,&nbsp;Dai, Xiyang,&nbsp;Gao, Jianfeng,&nbsp;Hu, Houdong,&nbsp;Huang, Xuedong,&nbsp;Li, Boxin,&nbsp;Li, Chunyuan,&nbsp;and others, 
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>arXiv preprint arXiv:2111.11432</em> 2021
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="li2021grounded" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Grounded Language-Image Pre-training</div>
+          <!-- Author -->
+          <div class="author">Li, Liunian Harold,&nbsp;
+                  <em>Zhang, Pengchuan</em>,&nbsp;Zhang, Haotian,&nbsp;Yang, Jianwei,&nbsp;Li, Chunyuan,&nbsp;Zhong, Yiwu,&nbsp;Wang, Lijuan,&nbsp;Yuan, Lu,&nbsp;Zhang, Lei,&nbsp;Hwang, Jenq-Neng,&nbsp;and others, 
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>arXiv preprint arXiv:2112.03857</em> 2021
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="zhong2021regionclip" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">RegionCLIP: Region-based Language-Image Pretraining</div>
+          <!-- Author -->
+          <div class="author">Zhong, Yiwu,&nbsp;Yang, Jianwei,&nbsp;
+                  <em>Zhang, Pengchuan</em>,&nbsp;Li, Chunyuan,&nbsp;Codella, Noel,&nbsp;Li, Liunian Harold,&nbsp;Zhou, Luowei,&nbsp;Dai, Xiyang,&nbsp;Yuan, Lu,&nbsp;Li, Yin,&nbsp;and others, 
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>arXiv preprint arXiv:2112.09106</em> 2021
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li></ol>
+
+  <h2 class="year">2020</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="zhang2020statistical" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Statistical adaptive stochastic gradient methods</div>
+          <!-- Author -->
+          <div class="author">
+                  <em>Zhang, Pengchuan</em>,&nbsp;Lang, Hunter,&nbsp;Liu, Qiang,&nbsp;and Xiao, Lin
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>arXiv preprint arXiv:2002.10597</em> 2020
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="li2020oscar" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Oscar: Object-semantics aligned pre-training for vision-language tasks</div>
+          <!-- Author -->
+          <div class="author">Li, Xiujun,&nbsp;Yin, Xi,&nbsp;Li, Chunyuan,&nbsp;
+                  <em>Zhang, Pengchuan</em>,&nbsp;Hu, Xiaowei,&nbsp;Zhang, Lei,&nbsp;Wang, Lijuan,&nbsp;Hu, Houdong,&nbsp;Dong, Li,&nbsp;Wei, Furu,&nbsp;and others, 
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>In European Conference on Computer Vision</em> 2020
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="sylvain2020object" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Object-centric image generation from layouts</div>
+          <!-- Author -->
+          <div class="author">Sylvain, Tristan,&nbsp;
+                  <em>Zhang, Pengchuan</em>,&nbsp;Bengio, Yoshua,&nbsp;Hjelm, R Devon,&nbsp;and Sharma, Shikhar
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>arXiv preprint arXiv:2003.07449</em> 2020
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="song2020novel" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Novel human-object interaction detection via adversarial domain generalization</div>
+          <!-- Author -->
+          <div class="author">Song, Yuhang,&nbsp;Li, Wenbo,&nbsp;Zhang, Lei,&nbsp;Yang, Jianwei,&nbsp;Kiciman, Emre,&nbsp;Palangi, Hamid,&nbsp;Gao, Jianfeng,&nbsp;Kuo, C-C Jay,&nbsp;and <em>Zhang, Pengchuan</em>
+                
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>arXiv preprint arXiv:2005.11406</em> 2020
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="wei2020maggan" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Maggan: High-resolution face attribute editing with mask-guided generative adversarial network</div>
+          <!-- Author -->
+          <div class="author">Wei, Yi,&nbsp;Gan, Zhe,&nbsp;Li, Wenbo,&nbsp;Lyu, Siwei,&nbsp;Chang, Ming-Ching,&nbsp;Zhang, Lei,&nbsp;Gao, Jianfeng,&nbsp;and <em>Zhang, Pengchuan</em>
+                
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>In Proceedings of the Asian Conference on Computer Vision</em> 2020
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="wang2020minivlm" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Minivlm: A smaller and faster vision-language model</div>
+          <!-- Author -->
+          <div class="author">Wang, Jianfeng,&nbsp;Hu, Xiaowei,&nbsp;
+                  <em>Zhang, Pengchuan</em>,&nbsp;Li, Xiujun,&nbsp;Wang, Lijuan,&nbsp;Zhang, Lei,&nbsp;Gao, Jianfeng,&nbsp;and Liu, Zicheng
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>arXiv preprint arXiv:2012.06946</em> 2020
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li></ol>
+
+  <h2 class="year">2019</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="lang2019using" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Using statistics to automate stochastic optimization</div>
+          <!-- Author -->
+          <div class="author">Lang, Hunter,&nbsp;Xiao, Lin,&nbsp;and <em>Zhang, Pengchuan</em>
+                
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Advances in Neural Information Processing Systems</em> 2019
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="hou2019solving" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Solving Bayesian inverse problems from the perspective of deep generative networks</div>
+          <!-- Author -->
+          <div class="author">Hou, Thomas Y,&nbsp;Lam, Ka Chun,&nbsp;
+                  <em>Zhang, Pengchuan</em>,&nbsp;and Zhang, Shumao
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Computational Mechanics</em> 2019
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="zhang2019recurjac" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Recurjac: An efficient recursive algorithm for bounding jacobian matrix of neural networks and its applications</div>
+          <!-- Author -->
+          <div class="author">Zhang, Huan,&nbsp;
+                  <em>Zhang, Pengchuan</em>,&nbsp;and Hsieh, Cho-Jui
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>In Proceedings of the AAAI Conference on Artificial Intelligence</em> 2019
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="jiang2019tiger" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">TIGEr: text-to-image grounding for image caption evaluation</div>
+          <!-- Author -->
+          <div class="author">Jiang, Ming,&nbsp;Huang, Qiuyuan,&nbsp;Zhang, Lei,&nbsp;Wang, Xin,&nbsp;
+                  <em>Zhang, Pengchuan</em>,&nbsp;Gan, Zhe,&nbsp;Diesner, Jana,&nbsp;and Gao, Jianfeng
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>arXiv preprint arXiv:1909.02050</em> 2019
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="salman2019convex" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">A convex relaxation barrier to tight robustness verification of neural networks</div>
+          <!-- Author -->
+          <div class="author">Salman, Hadi,&nbsp;Yang, Greg,&nbsp;Zhang, Huan,&nbsp;Hsieh, Cho-Jui,&nbsp;and <em>Zhang, Pengchuan</em>
+                
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>arXiv preprint arXiv:1902.08722</em> 2019
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="zhang2019statistical" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Statistical Adaptive Stochastic Optimization</div>
+          <!-- Author -->
+          <div class="author">
+                  <em>Zhang, Pengchuan</em>,&nbsp;Lang, Hunter,&nbsp;Liu, Qiang,&nbsp;and Xiao, Lin
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em></em> 2019
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="li2019object" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Object-driven text-to-image synthesis via adversarial training</div>
+          <!-- Author -->
+          <div class="author">Li, Wenbo,&nbsp;
+                  <em>Zhang, Pengchuan</em>,&nbsp;Zhang, Lei,&nbsp;Huang, Qiuyuan,&nbsp;He, Xiaodong,&nbsp;Lyu, Siwei,&nbsp;and Gao, Jianfeng
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition</em> 2019
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="salman2019provably" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Provably robust deep learning via adversarially trained smoothed classifiers</div>
+          <!-- Author -->
+          <div class="author">Salman, Hadi,&nbsp;Yang, Greg,&nbsp;Li, Jerry,&nbsp;
+                  <em>Zhang, Pengchuan</em>,&nbsp;Zhang, Huan,&nbsp;Razenshteyn, Ilya,&nbsp;and Bubeck, Sebastien
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>arXiv preprint arXiv:1906.04584</em> 2019
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="gitman2019understanding" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Understanding the role of momentum in stochastic gradient methods</div>
+          <!-- Author -->
+          <div class="author">Gitman, Igor,&nbsp;Lang, Hunter,&nbsp;
+                  <em>Zhang, Pengchuan</em>,&nbsp;and Xiao, Lin
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>arXiv preprint arXiv:1910.13962</em> 2019
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="salman2019convey" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">A convex relaxation barrier to tight robust verification of neural networks</div>
+          <!-- Author -->
+          <div class="author">Salman, Hadi,&nbsp;Yang, Greg,&nbsp;Zhang, Huan,&nbsp;Hsieh, Cho-Jui,&nbsp;and <em>Zhang, Pengchuan</em>
+                
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>arXiv preprint arXiv:1902.08722</em> 2019
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li></ol>
+
+  <h2 class="year">2018</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="huang2018turbo" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Turbo learning for captionbot and drawingbot</div>
+          <!-- Author -->
+          <div class="author">Huang, Qiuyuan,&nbsp;
+                  <em>Zhang, Pengchuan</em>,&nbsp;Wu, Dapeng,&nbsp;and Zhang, Lei
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>arXiv preprint arXiv:1805.08170</em> 2018
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="hou2018adaptive" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">An adaptive fast solver for a general class of positive definite matrices via energy decomposition</div>
+          <!-- Author -->
+          <div class="author">Hou, Thomas Y,&nbsp;Huang, De,&nbsp;Lam, Ka Chun,&nbsp;and <em>Zhang, Pengchuan</em>
+                
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Multiscale Modeling &amp; Simulation</em> 2018
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="xu2018attngan" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Attngan: Fine-grained text to image generation with attentional generative adversarial networks</div>
+          <!-- Author -->
+          <div class="author">Xu, Tao,&nbsp;
+                  <em>Zhang, Pengchuan</em>,&nbsp;Huang, Qiuyuan,&nbsp;Zhang, Han,&nbsp;Gan, Zhe,&nbsp;Huang, Xiaolei,&nbsp;and He, Xiaodong
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>In Proceedings of the IEEE conference on computer vision and pattern recognition</em> 2018
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="cho2018bird" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">A birdâ€™s eye view on coherence, and a wormâ€™s eye view on cohesion</div>
+          <!-- Author -->
+          <div class="author">Cho, Woon Sang,&nbsp;
+                  <em>Zhang, Pengchuan</em>,&nbsp;Zhang, Yizhe,&nbsp;Li, Xiujun,&nbsp;Wang, Mengdi,&nbsp;and Gao, Jianfeng
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em></em> 2018
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="cho2018towards" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Towards coherent and cohesive long-form text generation</div>
+          <!-- Author -->
+          <div class="author">Cho, Woon Sang,&nbsp;
+                  <em>Zhang, Pengchuan</em>,&nbsp;Zhang, Yizhe,&nbsp;Li, Xiujun,&nbsp;Galley, Michel,&nbsp;Brockett, Chris,&nbsp;Wang, Mengdi,&nbsp;and Gao, Jianfeng
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>arXiv preprint arXiv:1811.00511</em> 2018
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="zhou2018discrimination" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">On the Discrimination-Generalization Tradeoff in GANs</div>
+          <!-- Author -->
+          <div class="author">Zhou, Denny,&nbsp;
+                  <em>Zhang, Pengchuan</em>,&nbsp;Liu, Qiang,&nbsp;Xu, Tao,&nbsp;and He, Xiaodong
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em></em> 2018
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li></ol>
+
+  <h2 class="year">2017</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="hou2017exploring" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Exploring the locally low dimensional structure in solving random elliptic PDEs</div>
+          <!-- Author -->
+          <div class="author">Hou, Thomas Y,&nbsp;Li, Qin,&nbsp;and <em>Zhang, Pengchuan</em>
+                
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Multiscale Modeling &amp; Simulation</em> 2017
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="zhang2017discrimination" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">On the discrimination-generalization tradeoff in GANs</div>
+          <!-- Author -->
+          <div class="author">
+                  <em>Zhang, Pengchuan</em>,&nbsp;Liu, Qiang,&nbsp;Zhou, Dengyong,&nbsp;Xu, Tao,&nbsp;and He, Xiaodong
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>arXiv preprint arXiv:1711.02771</em> 2017
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="zhang2017compressing" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Compressing Positive Semidefinite Operators with Sparse/Localized Bases</div>
+          <!-- Author -->
+          <div class="author">
+                <em>Zhang, Pengchuan</em>
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>arXiv preprint arXiv:1711.02771</em> 2017
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="hou2017sparse" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">A sparse decomposition of low rank symmetric positive semidefinite matrices</div>
+          <!-- Author -->
+          <div class="author">Hou, Thomas Y,&nbsp;Li, Qin,&nbsp;and <em>Zhang, Pengchuan</em>
+                
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Multiscale Modeling &amp; Simulation</em> 2017
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="hou2017sparsf" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Sparse operator compression of higher-order elliptic operators with rough coefficients</div>
+          <!-- Author -->
+          <div class="author">Hou, Thomas Y,&nbsp;and <em>Zhang, Pengchuan</em>
+                
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Research in the Mathematical Sciences</em> 2017
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li></ol>
+
+  <h2 class="year">2016</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="deng2016concise" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Concise summarization of heterogeneous treatment effect using total variation regularized regression</div>
+          <!-- Author -->
+          <div class="author">Deng, Alex,&nbsp;
+                  <em>Zhang, Pengchuan</em>,&nbsp;Chen, Shouyuan,&nbsp;Kim, Dong Woo,&nbsp;and Lu, Jiannan
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>arXiv preprint arXiv:1610.03917</em> 2016
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li></ol>
+
+
+</div>
+:ET

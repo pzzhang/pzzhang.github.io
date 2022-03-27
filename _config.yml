@@ -8,7 +8,7 @@ middle_name:
 last_name: Zhang
 email: penzhan@microsoft.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  I'm a senior researcher at Microsoft Research, Redmond. Before joining Microsoft, I obtained my PhD degree in Applied and Computational Mathematics from Caltech in 2017. My research interests are mainly in the areas of deep learning, computer vision, multimodal intelligence, and theoretical foundations for deep learning. 
+  I'm a principal researcher at Microsoft Research, Redmond. Before joining Microsoft, I obtained my PhD degree in Applied and Computational Mathematics from Caltech in 2017. My research interests are mainly in the areas of deep learning, computer vision, multimodal intelligence, and theoretical foundations for deep learning. 
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
